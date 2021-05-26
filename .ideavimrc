@@ -1,0 +1,11 @@
+source ~/.vimrc
+
+set relativenumber
+set idearefactormode=keep
+set ideajoin
+
+set clipboard=unnamed
+set clipboard+=ideaput
+
+set surround
+
