@@ -7,6 +7,7 @@ set noshowmode
 set hlsearch
 set ignorecase
 set incsearch
+set clipboard=unnamed
 
 " vim-plug section
 
